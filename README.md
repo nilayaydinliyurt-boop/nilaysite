@@ -23,7 +23,7 @@
         .social-links a { color: #fff; font-size: 32px; margin: 0 15px; transition: 0.3s; display: inline-block; }
         .social-links a:hover { color: var(--accent); transform: scale(1.2); }
         footer { padding: 50px; text-align: center; background: #050505; font-size: 0.8rem; opacity: 0.6; }
-        .btn { border: 1px solid var(--accent); color: var(--accent); padding: 12px 30px; text-decoration: none; font-weight: bold; margin-top: 30px; display: inline-block; transition: 0.3s; cursor: pointer; }
+        .btn { border: 1px solid var(--accent); color: var(--accent); padding: 12px 30px; text-decoration: none; font-weight: bold; margin-top: 30px; display: inline-block; transition: 0.3s; cursor: pointer; text-transform: uppercase; }
         .btn:hover { background: var(--accent); color: #000; }
     </style>
 </head>
@@ -47,7 +47,7 @@
         <i class="fas fa-play-circle" style="font-size: 50px; color: var(--accent); margin-bottom: 15px;"></i>
         <h3>OYNA BE HAYAT</h3>
         <p>Nilay Aydınlıyurt'un en yeni eseri şimdi tüm dijital platformlarda.</p>
-        <a href="https://spotify.com" target="_blank" class="btn">SPOTIFY'DA DİNLE</a>
+        <a href="https://open.spotify.com/search/Oyna%20Be%20Hayat%20Nilay%20Aydınlıyurt" target="_blank" class="btn">SPOTIFY'DA DİNLE</a>
     </div>
 
     <h2>DISCOGRAPHY / DİSKOGRAFİ</h2>
@@ -56,13 +56,13 @@
             <i class="fab fa-spotify"></i>
             <h3>Digital Tracks</h3>
             <p>"Vay Anasını Vay", "Deli Deli" ve "Adaçayı" dahil tüm bestelerim.</p>
-            <a href="https://spotify.com" target="_blank" class="btn" style="padding: 8px 15px;">Listen Now</a>
+            <a href="https://open.spotify.com/search/Nilay%20Aydınlıyurt" target="_blank" class="btn" style="padding: 8px 15px;">Tümünü Dinle</a>
         </div>
         <div class="card">
             <i class="fab fa-youtube"></i>
             <h3>YouTube Channels</h3>
             <p>@melora.x ve @Djmuziktr kanallarındaki en yeni videolar.</p>
-            <a href="https://youtube.com/@melora.x" target="_blank" class="btn" style="padding: 8px 15px;">Watch on YouTube</a>
+            <a href="https://www.youtube.com/@melora.x" target="_blank" class="btn" style="padding: 8px 15px;">Kanalı İzle</a>
         </div>
     </div>
 </section>
@@ -78,8 +78,8 @@
     <h2>Connect / İletişim</h2>
     <div class="social-links">
         <a href="https://www.instagram.com/nilayaydinliyurtofficial/" target="_blank"><i class="fab fa-instagram"></i></a>
-        <a href="https://youtube.com/@melora.x" target="_blank"><i class="fab fa-youtube"></i></a>
-        <a href="mailto:iletisim@melorax.com"><i class="fas fa-envelope"></i></a>
+        <a href="https://www.youtube.com/@melora.x" target="_blank"><i class="fab fa-youtube"></i></a>
+        <a href="mailto:contact@melorax.com"><i class="fas fa-envelope"></i></a>
     </div>
 </section>
 
